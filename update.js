@@ -3,4 +3,4 @@ window.update = [
     { time: '2020-09-11', content: '<p>直通车</p><p>1、关键词优化新增间接成交分析功能</p><p>2、工具-流量解析数据导出</p><p>3、单元列表批量优化单元</p>' }
 ]
 
-window.updateTime = '2020-09-20'
+window.updateTime = '2020-09-21'
